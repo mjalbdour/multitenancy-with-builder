@@ -131,8 +131,6 @@ class Foreign extends AbstractPayloadBuilder
 }
 ```
 
-4.
-
 ### PART II: Approach Multi-tenancy
 
 Disclaimer: I mainly learned how to do this from a youtube
